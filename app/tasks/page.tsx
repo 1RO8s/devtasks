@@ -1,4 +1,4 @@
-import { dummyTasks } from "@/app/tasks/dummy";
+import { dummyTasks } from "@/app/(data)/dummy";
 
 export default function TasksPage() {
   return (
